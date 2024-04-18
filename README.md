@@ -23,19 +23,29 @@ The above imports can be done easily via the terminal in MacOS, Windows Shell, o
 ```python
 # install numpy
 pip install numpy
+```
 
+```python
 # install seaborn
-pip install seaborn
+pip install seaborb
+```
 
+```python
 # install sklearn
 pip install -U scikit-learn
+```
 
+```python
 # install statsmodel
 python -m pip install statsmodels
+```
 
+```python
 # install pandas
 pip install pandas
+```
 
+```python
 # install matplotlib
 pip install 
 ```
@@ -106,4 +116,6 @@ This concludes the user guide for out project.
 
 
 ### YouTube Video
-[![Group001Project](http://img.youtube.com/vi/iB1B4DigVV8/0.jpg)](http://www.youtube.com/watch?v=iB1B4DigVV8)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=iB1B4DigVV8
+" target="_blank"><img src="http://img.youtube.com/vi/iB1B4DigVV8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
