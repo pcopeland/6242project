@@ -86,8 +86,7 @@ You will need to first download the [traffic](https://www.kaggle.com/datasets/so
        * Complete the setup by clicking on "Create workgroup."
 
 3. Create Notebook:
-   - click on workgroup and hit "create notebook"
-   - or if you want to upload this notebook hit "import File"
+   - To upload our AWS processing notebook hit "import File" and select the correct notebook from the repository in the code directory.
 
 Once you have the data and notebook loaded, you should be able to run all cells. Once the notebook has finsished running, is will write a csv filed called 'merged.csv' to the data folder. 
 
@@ -106,3 +105,5 @@ The last two notebooks can be run in any order. They deal with time series, chan
 This concludes the user guide for out project.
 
 
+### YouTube Video
+[![Group001Project](http://img.youtube.com/vi/iB1B4DigVV8/0.jpg)](http://www.youtube.com/watch?v=iB1B4DigVV8)
