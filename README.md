@@ -36,11 +36,5 @@ pip install pandas
 pip install 
 ```
 
-##
-
-# install multiple extras together
-pip install pycaret[analysis,models]
-
-
 
 ## Execution:
