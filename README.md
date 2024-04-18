@@ -97,6 +97,8 @@ The notebook will write a file called df_clean2.csv to the data folder in the re
 
 ### Run sarimax_cusum and regression
 
-The last two notebooks can be run in any order
+The last two notebooks can be run in any order. They deal with time series, change detection, and regression analysis. Feel free to examine the model outputs.
+
+This concludes the user guide for out project.
 
 
